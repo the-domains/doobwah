@@ -1,0 +1,28 @@
+name: doobwah
+favicon: null
+layout_spectrum: 0.64291997323744
+typography_spectrum: 0.8503354222048074
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5643566001672298
+  lightness: 0.3979786152485758
+  saturation: 0.4547916918527335
+  rhythmicContrast: 0.9408749919384718
+purpose: []
